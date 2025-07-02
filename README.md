@@ -7,5 +7,5 @@
 * การวางแผน Test Plan, การสร้าง Test Case และรายงานผลด้วย Test Report
 
 ### ตัวอย่างการทดสอบ
-**1.การตรวจหาบัคจาก academybugs.com**
+**1. Allegro Sandbox**
 *[Find Bugs](https://docs.google.com/spreadsheets/d/1_hhRWhRSVhWeyspMndrGQqI211Cvw1sm4X0WNgYvF4Q/edit?usp=drive_link)
