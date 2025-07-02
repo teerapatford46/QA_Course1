@@ -9,3 +9,9 @@
 ### ตัวอย่างการทดสอบ
 **1. หาบัคจากเว็ป academybugs.com**
 * [Find Bugs](https://docs.google.com/spreadsheets/d/1_hhRWhRSVhWeyspMndrGQqI211Cvw1sm4X0WNgYvF4Q/edit?usp=drive_link)
+
+**2. LUMA**
+* [Test plan]()
+* [Scenario and test cases]()
+* [Bug report]()
+* [Test report]()
