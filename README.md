@@ -11,7 +11,7 @@
 * [Find Bugs](https://docs.google.com/spreadsheets/d/1_hhRWhRSVhWeyspMndrGQqI211Cvw1sm4X0WNgYvF4Q/edit?usp=drive_link)
 
 **2. LUMA**
-* [Test plan](https://drive.google.com/file/d/1cZ1zR_6t8nK58A4KzAedweWLfxmgTqtn/view?usp=sharing)
-* [Scenario and test cases]()
+* [Test plan](https://drive.google.com/file/d/1yImqWHJovWGgs37Ta_oLZXMg2QETSiJZ/view?usp=sharing)
+* [test cases](https://docs.google.com/spreadsheets/d/1IbZvEvj4IO4au9Xi_5YEV1Z-PxAGlWEK6dCY0LU5L3c/edit?usp=sharing)
 * [Bug report]()
 * [Test report]()
