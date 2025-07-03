@@ -11,7 +11,7 @@
 * [Find Bugs](https://docs.google.com/spreadsheets/d/1_hhRWhRSVhWeyspMndrGQqI211Cvw1sm4X0WNgYvF4Q/edit?usp=drive_link)
 
 **2. LUMA**
-* [Test plan]()
+* [Test plan](https://drive.google.com/file/d/1cZ1zR_6t8nK58A4KzAedweWLfxmgTqtn/view?usp=sharing)
 * [Scenario and test cases]()
 * [Bug report]()
 * [Test report]()
